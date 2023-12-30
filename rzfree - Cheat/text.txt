@@ -1,0 +1,1 @@
+Put this dll into gta5 folder and when u run fivem it will inject
